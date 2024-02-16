@@ -1,0 +1,15 @@
+C:\Users\SALONI\source\repos\actualUiTodo\obj\Debug\actualUiTodo.csproj.AssemblyReference.cache
+C:\Users\SALONI\source\repos\actualUiTodo\obj\Debug\MainWindow.g.cs
+C:\Users\SALONI\source\repos\actualUiTodo\obj\Debug\App.g.cs
+C:\Users\SALONI\source\repos\actualUiTodo\obj\Debug\actualUiTodo_MarkupCompile.cache
+C:\Users\SALONI\source\repos\actualUiTodo\obj\Debug\actualUiTodo_MarkupCompile.lref
+C:\Users\SALONI\source\repos\actualUiTodo\bin\Debug\actualUiTodo.exe.config
+C:\Users\SALONI\source\repos\actualUiTodo\bin\Debug\actualUiTodo.exe
+C:\Users\SALONI\source\repos\actualUiTodo\bin\Debug\actualUiTodo.pdb
+C:\Users\SALONI\source\repos\actualUiTodo\obj\Debug\MainWindow.baml
+C:\Users\SALONI\source\repos\actualUiTodo\obj\Debug\actualUiTodo.g.resources
+C:\Users\SALONI\source\repos\actualUiTodo\obj\Debug\actualUiTodo.Properties.Resources.resources
+C:\Users\SALONI\source\repos\actualUiTodo\obj\Debug\actualUiTodo.csproj.GenerateResource.cache
+C:\Users\SALONI\source\repos\actualUiTodo\obj\Debug\actualUiTodo.csproj.CoreCompileInputs.cache
+C:\Users\SALONI\source\repos\actualUiTodo\obj\Debug\actualUiTodo.exe
+C:\Users\SALONI\source\repos\actualUiTodo\obj\Debug\actualUiTodo.pdb
